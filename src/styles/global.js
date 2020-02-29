@@ -10,6 +10,7 @@ export default createGlobalStyle`
     
     html, body, #root {
         min-height: 100%;
+        background: #EEEEEE;
     }
 
     body {
@@ -17,7 +18,7 @@ export default createGlobalStyle`
     }
 
     body, input, button {
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Raleway', Arial, Helvetica, sans-serif;
     }
 
     button {
