@@ -8,7 +8,6 @@ Technologies and tools used on this project:
 - CSS
 - JavaScript
 - React.js
-- JSX
 - Styled Components
 
 ![Demo](demo.jpg)
