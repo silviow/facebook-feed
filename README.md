@@ -1,4 +1,4 @@
-# GoStack Challenge 4
+# Facebook Feed
 
 :newspaper: Exercise proposed during [@Rocketseat](https://github.com/rocketseat)'s GoStack bootcamp that consists of developing an interface similar to Facebook using React.js.
 
